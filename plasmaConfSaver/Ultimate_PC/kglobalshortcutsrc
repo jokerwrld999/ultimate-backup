@@ -225,7 +225,7 @@ moveCurrentDesktopToRight=none,,Virtual Desktop Bar - Move Current Desktop to Ri
 removeCurrentDesktop=none,,Virtual Desktop Bar - Remove Current Desktop
 removeLastDesktop=none,,Virtual Desktop Bar - Remove Last Desktop
 renameCurrentDesktop=none,,Virtual Desktop Bar - Rename Current Desktop
-switchToRecentDesktop=none,,Virtual Desktop Bar - Switch to Recent Desktop
+switchToRecentDesktop=Ctrl+Shift+Tab,,Virtual Desktop Bar - Switch to Recent Desktop
 view_actual_size=none,Meta+0,Zoom to Actual Size
 view_zoom_in=Meta+=,Meta++,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out

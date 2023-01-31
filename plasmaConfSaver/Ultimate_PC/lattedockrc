@@ -32,9 +32,6 @@ windowSize=980,813
 [PlasmaThemeExtended]
 outlineWidth=1
 
-[PlasmaTransientsConfig]
-PreloadWeight=42
-
 [ScreenConnectors]
 10=DVI-D-0:::1366,0 1280x1024
 11=VGA-0:::0,578 1366x768
