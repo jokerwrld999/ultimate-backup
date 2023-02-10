@@ -1,6 +1,6 @@
 [Appearance]
 ColorScheme=Breath
-Font=MesloLGMDZ Nerd Font Mono,10,-1,5,50,0,0,0,0,0
+Font=MesloLGMDZ Nerd Font Mono,12,-1,5,50,0,0,0,0,0
 TabColor=192,192,192
 
 [General]
